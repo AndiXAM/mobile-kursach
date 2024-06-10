@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/aboutProgram"
+        android:title="aboutprogram"
+        android:icon="@drawable/infromationicon"
+        app:showAsAction="ifRoom|withText">
+
+    </item>
+    <item
+        android:id="@+id/aboutAuthor"
+        android:title="aboutauthor"
+        android:icon="@drawable/authoricon"
+        app:showAsAction="ifRoom|withText">
+
+    </item>
+</menu>
